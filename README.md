@@ -3,8 +3,10 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi 👋, I'm Rocky Llamasares</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rockyllamasares&label=Profile%20views&color=0e75b6&style=flat" alt="rockyllamasares" /> </p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0AD437&width=405&height=58&lines=I'm+Rocky+Llamasares%2C+23+years+old;Front-end+Web+Developer;Information+Security)](https://git.io/typing-svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rockyllamasares&label=Profile%20views&color=0e75b6&style=flat" alt="rockyllamasares" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/rocky01061826" target="blank"><img src="https://img.shields.io/twitter/follow/rocky01061826?logo=twitter&style=for-the-badge" alt="rocky01061826" /></a> </p>
 
