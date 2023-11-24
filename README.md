@@ -47,7 +47,7 @@
 </a>
 <a href="https://fedoraproject.org" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Fflat-round-system%2F512%2Ffedora-1024.png&f=1&nofb=1&ipt=cb5e326a5767ec1c36989cfd0bdc06fd5c56a149b7121ee2d35979514628557c&ipo=images" alt="Fedora" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VSCode" width="40" height="40"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Fvscode-icon-14.png&f=1&nofb=1&ipt=604a90aa1347d9fa9f5985ea6a3abf67298d4760330865b3b17833abf92f1c8c&ipo=images" alt="VSCode" width="40" height="40"/>
 </a>
 
 
