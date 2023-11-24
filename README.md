@@ -45,8 +45,11 @@
 <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </a>
-<a href="your_fedora_link" target="_blank" rel="noreferrer"><img src="your_fedora_image_url" alt="Fedora" width="40" height="40"/></a>
-<a href="your_fedora_link" target="_blank" rel="noreferrer"><img src="your_fedora_image_url" alt="Fedora" width="40" height="40"/></a>
+<a href="https://fedoraproject.org" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Fflat-round-system%2F512%2Ffedora-1024.png&f=1&nofb=1&ipt=cb5e326a5767ec1c36989cfd0bdc06fd5c56a149b7121ee2d35979514628557c&ipo=images" alt="Fedora" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VSCode" width="40" height="40"/>
+</a>
+
 
 
 </p>
