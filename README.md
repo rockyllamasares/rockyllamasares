@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on **JMH IT Solution**
 
-- 🌱 I’m currently learning **react JS,python and Server Side**
-
 - 💬 Ask me about **front end and back end**
 
 - 📫 How to reach me **rockyllamasares08@gmail.com**
