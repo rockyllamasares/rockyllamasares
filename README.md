@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **JMH IT Solution**
 
-- 💬 Ask me about **Front-end and Back-end**
+- 💬 Ask me about **Front-end and Back-end**.
 
 - 📫 How to reach me **rockyllamasares08@gmail.com**
 
