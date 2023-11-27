@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/rocky01061826" target="blank"><img src="https://img.shields.io/twitter/follow/rocky01061826?logo=twitter&style=for-the-badge" alt="rocky01061826" /></a> </p>
 
-- 🔭 I’m currently working on **JMH IT Solution**
+- 🔭 I’m currently working on **JMH IT Solution**.
 
 - 💬 Ask me about **Front-end and Back-end**.
 
-- 📫 How to reach me **rockyllamasares08@gmail.com**
+- 📫 How to reach me **rockyllamasares08@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
