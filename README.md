@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi 👋, I'm Rocky Llamasares</h1>
+<h1 align="center" width="30"/>Hi 👋, I'm Rocky Llamasares</h1>
 <h3 align="center">A passionate full-stack developer from Philippines</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4998&color=0AD437&width=405&height=58&lines=I'm+Rocky+Llamasares;Software+Developer;Information+Security;Full-Stack+Developer)](https://git.io/typing-svg)
