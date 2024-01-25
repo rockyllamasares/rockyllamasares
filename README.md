@@ -56,7 +56,7 @@ Welcome to my GitHub page! I'm Rocky, a passionate and creative web developer co
 <b>My GitHub Stats</b>
 
 <div>
-  <div>
+<div>
   <a href="http://www.github.com/rockyllamasares">
     <img src="https://github-readme-stats.vercel.app/api?username=rockyllamasares&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="rockyllamasares's GitHub stats" />
   </a>
@@ -64,11 +64,6 @@ Welcome to my GitHub page! I'm Rocky, a passionate and creative web developer co
   <a href="http://www.github.com/rockyllamasares">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rockyllamasares&theme=dracula&hide_border=true" alt="rockyllamasares's GitHub streak" />
   </a>
-</div>
-
-  <a href="http://www.github.com/rockyllamasares"><img src="https://github-readme-stats.vercel.app/api?username=rockyllamasares&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rockyllamasares's GitHub stats&theme=dracula" /></a>
-  
-  <a href="http://www.github.com/rockyllamasares"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rockyllamasares&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=dracula" /></a>
 </div>
 
 <a href="https://github.com/rockyllamasares" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockyllamasares&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages&theme=dracula" /></a>
