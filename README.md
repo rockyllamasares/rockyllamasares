@@ -47,7 +47,12 @@ Welcome to my GitHub page! I'm Rocky, a passionate and creative web developer co
  
  <div>
   <a href="http://www.github.com/rockyllamasares">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockyllamasares&layout=compact&langs_count=16&theme=dracula"/>
+   <img align="center" height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockyllamasares&layout=compact&langs_count=16&theme=dracula"/>
+  <a/>
+    <a href="http://www.github.com/rockyllamasares">
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockyllamasares&layout=compact&langs_count=16&theme=dracula"/>
+</a>
+
 </div>
    
 ### Badges
