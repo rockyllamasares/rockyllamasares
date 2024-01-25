@@ -44,28 +44,21 @@ Welcome to my GitHub page! I'm Rocky, a passionate and creative web developer co
 
  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
- 
- <div>
-  <a href="http://www.github.com/rockyllamasares">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockyllamasares&layout=compact&langs_count=16&theme=dracula"/>
-</a>
-
-</div>
-   
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <div>
-<div>
   <a href="http://www.github.com/rockyllamasares">
     <img src="https://github-readme-stats.vercel.app/api?username=rockyllamasares&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="rockyllamasares's GitHub stats" />
   </a>
-
   <a href="http://www.github.com/rockyllamasares">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rockyllamasares&theme=dracula&hide_border=true" alt="rockyllamasares's GitHub streak" />
   </a>
 </div>
 
-<a href="https://github.com/rockyllamasares" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockyllamasares&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages&theme=dracula" /></a>
-
+ <div>
+  <a href="http://www.github.com/rockyllamasares">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockyllamasares&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
