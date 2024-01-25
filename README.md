@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Welcome to my GitHub page! I'm Rocky, a passionate and creative web developer committed to delivering innovative and efficient web solutions. With a rich background in modern web technologies, I specialize in crafting responsive, user-friendly websites and applications that meet the evolving needs of users and businesses.
-
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [My Portfolio](http://roxx-portfolio.vercel.app)
 * ✉️  You can contact me at [rockyllamasares08@gmail.com](mailto:rockyllamasares08@gmail.com)
