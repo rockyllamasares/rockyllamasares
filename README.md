@@ -42,7 +42,7 @@ Welcome to my GitHub page! I'm Rocky, a passionate and creative web developer co
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
 </div>
-
+ ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 ### Badges
 
 <b>My GitHub Stats</b>
