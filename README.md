@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-* 🌍  I'm based in Philippines
+<!--* 🌍  I'm based in Philippines -->
 * 🖥️  See my portfolio at [My Portfolio](http://roxx-portfolio.vercel.app)
 * ✉️  You can contact me at [rockyllamasares08@gmail.com](mailto:rockyllamasares08@gmail.com)
 * 🚀  I'm currently working on [JMH.IT solutions, Inc.](http://jmhits.com/)
