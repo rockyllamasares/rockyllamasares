@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Rocky Llamasares" />
-</h1>
+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
