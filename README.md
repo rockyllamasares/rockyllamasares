@@ -40,7 +40,7 @@
               
 &nbsp;
 
-## My Socials 
+## 🖥️ &nbsp;My Socials 
 
 <div align="left">
   <a href="https://www.instagram.com/hoesoulfourtwenty/">
@@ -65,7 +65,7 @@
 
  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
-### Badges
+## &nbsp;Badges
 
 <b>My GitHub Stats</b>
 
