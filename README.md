@@ -40,7 +40,7 @@
               
 &nbsp;
 
-## &nbsp;My Socials 
+## My Socials 
 
 <div align="left">
   <a href="https://www.instagram.com/hoesoulfourtwenty/">
