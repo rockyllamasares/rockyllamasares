@@ -7,9 +7,9 @@
 
 <!--* 🌍  I'm based in Philippines -->
 
-* 🖥️  <pre>See my portfolio at [My Portfolio](http://roxx-portfolio.vercel.app) </pre>
-* ✉️  <pre>You can contact me at [rockyllamasares08@gmail.com](mailto:rockyllamasares08@gmail.com)</pre>
-* 🚀  <pre>I'm currently working on [JMH.IT solutions, Inc.](http://jmhits.com/)</pre>
+* 🖥️  See my portfolio at [My Portfolio](http://roxx-portfolio.vercel.app) 
+* ✉️  You can contact me at [rockyllamasares08@gmail.com](mailto:rockyllamasares08@gmail.com)
+* 🚀  I'm currently working on [JMH.IT solutions, Inc.](http://jmhits.com/)
 
 
 ### Skills
