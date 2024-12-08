@@ -94,7 +94,7 @@
     </td>
     <td rowspan="2">
       <a href="http://www.github.com/rockyllamasares">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockyllamasares&layout=compact&langs_count=16&theme=dracula"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockyllamasares&layout=compact&langs_count=16&theme=dracula" height="500"/>
       </a>
     </td>
   </tr>
