@@ -70,7 +70,7 @@
 
 <b>My GitHub Stats</b>
 
-<div>
+<!-- <div>
   <a href="http://www.github.com/rockyllamasares">
     <img src="https://github-readme-stats.vercel.app/api?username=rockyllamasares&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="rockyllamasares's GitHub stats"  width="500"/>
   </a>
@@ -83,7 +83,8 @@
   <a href="http://www.github.com/rockyllamasares">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockyllamasares&layout=compact&langs_count=16&theme=dracula"/>
   </a>
-</div>
+</div> -->
+
 <table>
   <tr>
     <td>
