@@ -72,7 +72,7 @@
 
 <div>
   <a href="http://www.github.com/rockyllamasares">
-    <img src="https://github-readme-stats.vercel.app/api?username=rockyllamasares&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="rockyllamasares's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rockyllamasares&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="rockyllamasares's GitHub stats"  width="50"/>
   </a>
   <a href="http://www.github.com/rockyllamasares">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rockyllamasares&theme=dracula&hide_border=true" alt="rockyllamasares's GitHub streak" />
