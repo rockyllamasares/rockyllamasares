@@ -11,7 +11,7 @@
 * ✉️  You can contact me at [rockyllamasares08@gmail.com](mailto:rockyllamasares08@gmail.com)
 * 🚀  I'm currently working on [JMH.IT solutions, Inc.](http://jmhits.com/)
 
-### Profile Views
+<!-- ### Profile Views -->
 ![](https://count.getloli.com/get/@BEPb.github.readme)
 </br>
 
