@@ -12,9 +12,6 @@
 * 🚀  I'm currently working on [JMH.IT solutions, Inc.](http://jmhits.com/)
 
 </br></br>
-<!-- ### Profile Views -->
-![](https://count.getloli.com/get/@BEPb.github.readme)
-</br>
 
 ## 🧰 &nbsp;My toolbox
 
