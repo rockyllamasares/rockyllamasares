@@ -10,7 +10,6 @@
 * 🖥️  See my portfolio at [My Portfolio](http://roxx-portfolio.vercel.app) 
 * ✉️  You can contact me at [rockyllamasares08@gmail.com](mailto:rockyllamasares08@gmail.com)
 * 🚀  I'm currently working on [JMH.IT solutions, Inc.](http://jmhits.com/)
-
 </br></br>
 
 ## 🧰 &nbsp;My toolbox
