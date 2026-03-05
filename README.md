@@ -74,12 +74,12 @@
         <img src="https://github-readme-stats.vercel.app/api?username=rockyllamasares&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="rockyllamasares's GitHub stats"  width="500"/>
       </a>
     </td> -->
-    <td rowspan="2">
+    <!-- <td rowspan="2">
       <a href="http://www.github.com/rockyllamasares">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockyllamasares&layout=compact&langs_count=16&theme=dracula" height="400"/>
       </a>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td>
       <a href="http://www.github.com/rockyllamasares">
