@@ -62,9 +62,9 @@ the work stops feeling like work.
 
 <div align="center">
 
-![Rocky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rockyllamasares&show_icons=true&theme=tokyonight&hide_border=true)
+![Rocky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rockyllamasares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rockyllamasares&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rockyllamasares&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
 
