@@ -53,7 +53,8 @@ the work stops feeling like work.
 ## 🛠️ Tech Stack
 
 <!-- Replace with your actual stack -->
-![Your Stack Here](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,vscode)
+![Your Stack Here](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,vscode,linux,laravel,docker)
+
 
 ---
 
