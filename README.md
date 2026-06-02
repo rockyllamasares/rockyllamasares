@@ -5,6 +5,7 @@
 **Builder. Thinker. Relentless by design.**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6EE7F7&center=true&vCenter=true&width=435&lines=Always+shipping.;Always+learning.;Clarity+over+willpower.)](https://git.io/typing-svg)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-roxx--portfolio.vercel.app-6EE7F7?style=for-the-badge&logo=vercel&logoColor=black)](https://roxx-portfolio.vercel.app/)
 
 </div>
