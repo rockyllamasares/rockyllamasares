@@ -76,7 +76,7 @@ the work stops feeling like work.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rockyllamasares&theme=tokyonight&hide_border=true&card_width=500)](https://github.com/rockyllamasares)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=rockyllamasares&theme=tokyonight&no-frame=true&row=1)](https://github.com/rockyllamasares)
 
 </div> 
 
