@@ -72,13 +72,20 @@ the work stops feeling like work.
 
 ---
 
-## 🔥 Streak
+<!-- ## 🔥 Streak
 
 <div align="center">
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=rockyllamasares&theme=tokyonight&no-frame=true&row=1)](https://github.com/rockyllamasares)
 
-</div> 
+</div> -->
+## 🔥 Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rockyllamasares&theme=tokyo-night&hide_border=true&area=true)](https://github.com/rockyllamasares)
+
+</div>
 
 ---
 
